@@ -6,7 +6,7 @@
     <version>3.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>neodymium-template</name>
+    <name>neodymium-test-es</name>
     <url>https://github.com/Xceptance/neodymium-template</url>
     <organization>
         <name>Xceptance Software Technologies</name>
